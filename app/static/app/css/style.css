@@ -1,0 +1,30 @@
+.index{
+    font-family: Georgia, serif;
+    
+    background-color: #cfe2f3;
+}
+.carousel {
+    
+    width: 600px;
+    height: 300px;
+    margin: auto;
+}
+.contacto{
+
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+    
+}
+
+.card-body.contacto{
+
+    background-color: #cfe2f3;
+
+}
+
+.Productos{
+
+    font-family: Georgia, serif;
+    
+    background-color: #cfe2f3;
+}

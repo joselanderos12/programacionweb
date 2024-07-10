@@ -1,0 +1,53 @@
+
+.Registro{
+
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+
+}
+.card-body.contacto{
+
+    background-color: #feffff;
+
+}
+
+.Productos{
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+}
+.iniciosesion{
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+}
+.carrito{
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+}
+
+.index{
+    font-family: Georgia, serif;
+    
+    background-color: #cfe2f3;
+}
+
+  
+.contacto{
+
+    font-family: Georgia, serif;
+    background-color: #cfe2f3;
+    
+}
+
+
+.titulo{
+    
+    text-decoration: underline;
+    font-family: Georgia, serif;
+}
+
+.carousel {
+    
+    width: 600px;
+    height: 300px;
+    margin: auto;
+}
